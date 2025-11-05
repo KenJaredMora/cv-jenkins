@@ -4,7 +4,7 @@ pipeline {
   tools { nodejs 'node20' }
 
   environment {
-    APP_HOST = '34.205.171.188'   // <-- use your APP public IP
+    APP_HOST = '#########'   // <-- use your APP public IP
     APP_USER = 'deploy'
   }
 
