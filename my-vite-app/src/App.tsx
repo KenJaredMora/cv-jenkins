@@ -14,7 +14,7 @@ function App() {
         </a>
       </div>
 
-      <h1>Kenyon Jared Mora Zamora</h1>
+      <h1>Kenyon Jared Mora Zamora 2.0</h1>
       <div className="card">
         <p><strong>Full-stack / DevOps-leaning Software Engineer</strong></p>
         <p>This site is deployed via a simple CI/CD pipeline:</p>
