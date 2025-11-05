@@ -4,7 +4,7 @@ pipeline {
   tools { nodejs 'node20' }
 
   environment {
-    APP_HOST = credentials('app-host')
+    APP_HOST = '34.205.171.188'   // <— hardcoded
     APP_USER = 'deploy'
   }
 
